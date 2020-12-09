@@ -1,0 +1,24 @@
+{
+  "name": "npm-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": { 
+    "express": "^4.17.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erc83/npmtest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erc83/npmtest/issues"
+  },
+  "homepage": "https://github.com/erc83/npmtest#readme",
+  "description": ""
+}
